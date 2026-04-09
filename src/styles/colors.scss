@@ -1,36 +1,35 @@
 :root {
-  --primary: #d6fb41;
-  --primary-lighter: #cff97a;
+  --primary: #42ac94;
+  --primary-lighter: #6dc4b0;
   --text-color: #ffffff;
   --text-color-secondary: #ffffffb6;
   --text-color-thirdly: #ffffff5b;
-  --background: #111211;
-  --background-darker: #111927;
-  // --background-lighter: #1a2332;
-  --background-lighter: #3A3B3A;
-  --background-50: #11121180;
-  --bg-shadow-color: #0f1620;
-  --fg-shadow-color: #456602;
-  --primary-transparent: #d6fb4130;
+  --background: #0f3253;
+  --background-darker: #0a2340;
+  --background-lighter: #1a4570;
+  --background-50: #0f325380;
+  --bg-shadow-color: #071628;
+  --fg-shadow-color: #42ac94;
+  --primary-transparent: #42ac9430;
 
   // Action Colors
-  --info: #04e4f4;
-  --success: #20e253;
+  --info: #495bc2;
+  --success: #42ac94;
   --warning: #f6f000;
   --error: #fca016;
-  --danger: #f80363;
-  --neutral: #272f4d;
+  --danger: #a9539a;
+  --neutral: #1a4570;
 }
 
 html[data-theme="light"] {
-  --primary: #4a7700;
-  --primary-lighter: #a4cf50;
-  --text-color: #333333;
-  --text-color-secondary: #57667e;
+  --primary: #42ac94;
+  --primary-lighter: #6dc4b0;
+  --text-color: #0f3253;
+  --text-color-secondary: #495bc2;
   --background: #ffffff;
-  --background-darker: #f0f0f0;
+  --background-darker: #f0f4f8;
   --background-lighter: #fafafa;
   --bg-shadow-color: #e0e0e0;
-  --fg-shadow-color: #678800;
-  --primary-transparent: #4a770033;
+  --fg-shadow-color: #42ac94;
+  --primary-transparent: #42ac9433;
 }
